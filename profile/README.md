@@ -4,7 +4,7 @@ There are quite a few OpenSSL based (XS) perl modules available on [metacpan.org
 
 Some of those modules are actively being supported, while others appear to have been abandoned.  In some cases there is no active git repository, while in others the repository is under someone's personal account.
 
-This ogranization is my answer to the long term support/maintenance of OpenSSL based modules.  It is hoped that some of the active maintainers will consider joining this organization and assisting in the support for modules that they do not actively maintain.
+This organization is my answer to the long term support/maintenance of OpenSSL based modules.  It is hoped that some of the active maintainers will consider joining this organization and assisting in the support for modules that they do not actively maintain.
 
 Hopefully over the course of time any active members of this organization can obtain COMAINT on some or all of the modules that are maintained by this organization.
 
